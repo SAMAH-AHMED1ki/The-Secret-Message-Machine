@@ -2,7 +2,8 @@
 
 ## Description
 A text processing utility that implements Caesar cipher encryption/decryption, in-place string reversal, vowel counting, palindrome verification, and letter frequency histograms.
-
+Name : samah ahmed mahmoud ahmed
+email: sammahmedzz50@gmail.com
 ## How to Build and Run
 1. Open terminal in the project directory.
 2. Compile with warnings enabled:
