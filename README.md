@@ -1,6 +1,6 @@
 # Project 5 — The Secret Message Machine
-Name : samah ahmed mahmoud ahmed
-email: sammahmedzz50@gmail.com
+**Author:** Samah Ahmed Mahmoud Ahmed  
+**Email:** [sammahmedzz50@gmail.com](mailto:sammahmedzz50@gmail.com)
 ## Description
 A text processing utility that implements Caesar cipher encryption/decryption, in-place string reversal, vowel counting, palindrome verification, and letter frequency histograms.
 
